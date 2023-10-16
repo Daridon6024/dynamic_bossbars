@@ -1,1 +1,0 @@
-tag @s remove dynamic_bossbars.attr.has_bossbar
